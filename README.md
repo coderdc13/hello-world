@@ -21,3 +21,5 @@ to do for today -- apply to FIFB program, write blockchain, make blockchain pres
 leverage the material into every day work...
 
 1027EDT starting blockchain class now
+
+06 12 2018 1546EDT maybe do git course?
