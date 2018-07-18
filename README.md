@@ -44,3 +44,5 @@ leverage the material into every day work...
 07 11 2018 0244EDT 7-11 Day!
 
 07 14 2018 0734EDT website about coding education limit three sentences, 300 characters?
+
+07 18 2018 0213EDT major victory in code with https://repl.it/@FRANKLINBUENO/NATO17JUL20182003EDT
