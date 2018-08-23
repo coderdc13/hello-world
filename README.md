@@ -7,3 +7,5 @@
 15AUG2018 0543EDT resume assignments, glossary
 
 19AUG2018 1324EDT DOMINATE
+
+23AUG2018 0710EDT notes
